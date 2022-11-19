@@ -13,7 +13,7 @@ function deret(awal, akhir){
         return 'nilai tidak ditemukan'    
     }        
 
-    //kondisi saat nilai akhir lebih besar
+    //kondisi saat nilai awal lebih besar
     else if (awal > akhir){
         return 'nilai akhir harus lebih besar dari nilai awal'
     }
